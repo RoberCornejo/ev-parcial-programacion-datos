@@ -12,6 +12,6 @@ Proyecto desarrollado como evaluación académica enfocado en estructuras de dat
 - Lógica aplicada a casos reales
 
 ## Participantes
-Roberto
-Pamela 
+Roberto,
+Pamela,
 Maria
